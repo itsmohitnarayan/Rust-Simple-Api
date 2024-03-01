@@ -1,7 +1,3 @@
-Certainly! Here's a GitHub README for your project with some added emojis:
-
----
-
 # 🚀 Actix Rhai Calculator
 
 This is a simple calculator web service built with Actix Web and Rhai scripting language. It allows you to perform basic arithmetic operations (addition and multiplication) using Rhai scripts.
